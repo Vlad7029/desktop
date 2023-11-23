@@ -1,7 +1,8 @@
 {
   "recommendations": [
-    "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint",
-    "stkb.rewrap"
-  ]
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"stkb.rewrap",
+		"devsense.composer-php-vscode"
+	]
 }
